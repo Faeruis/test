@@ -20,3 +20,4 @@ def main():
     print(min(2,3))
 
 main()
+print("test")
