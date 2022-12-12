@@ -12,6 +12,9 @@ def min(a,b):
 def helloworld():
     print("hello world")
 
+def test():
+    print("bonheur")
+
 def main():
     print(max(2,3))
     print(min(2,3))
