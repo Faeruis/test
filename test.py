@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 def max(a,b):
     if a>b:
         return a
     else:
         return b
-=======
 def min(a,b):
     if a<b:
         return a
@@ -16,4 +14,4 @@ def main():
     print(min(2,3))
 
 main()
->>>>>>> refs/remotes/origin/main
+print("test")
