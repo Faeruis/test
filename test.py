@@ -17,7 +17,4 @@ def main():
     print(min(2,3))
 
 main()
-<<<<<<< HEAD
 print("test")
-=======
->>>>>>> 1791c0df135fa3faf5a9e23d776f18fb30eb03a7
